@@ -1,0 +1,17 @@
+{
+    "name": "admin/patrones-de-disenio",
+    "description": "Patrones de disenio homework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ejercicio01\\": "src/ejercicio01/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eder.ramosh",
+            "email": "eder.ramosh@gmail.com"
+        }
+    ],
+    "require": {}
+}
