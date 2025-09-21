@@ -6,7 +6,8 @@
         "psr-4": {
             "ejercicio01\\": "src/ejercicio01/",
             "ejercicio02\\": "src/ejercicio02/",
-            "ejercicio03\\": "src/ejercicio03/"
+            "ejercicio03\\": "src/ejercicio03/",
+            "ejercicio04\\": "src/ejercicio04/"
         }
     },
     "authors": [
