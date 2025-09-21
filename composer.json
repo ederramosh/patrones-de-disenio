@@ -4,7 +4,9 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "ejercicio01\\": "src/ejercicio01/"
+            "ejercicio01\\": "src/ejercicio01/",
+            "ejercicio02\\": "src/ejercicio02/",
+            "ejercicio03\\": "src/ejercicio03/"
         }
     },
     "authors": [
